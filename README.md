@@ -1,4 +1,5 @@
 # Chinese version: [README_cn.md](README_cn.md)
+# This is a fork for my Vietnamese voice conversion project. All modifications can be found in commit history.
 # SingingVocoders
 A collection of neural vocoders suitable for singing voice synthesis tasks.
 
